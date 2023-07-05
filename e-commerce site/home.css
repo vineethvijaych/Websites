@@ -1,0 +1,16 @@
+.topbar{
+    background-color: rgb(51, 51, 51);
+}
+.topbartxt{
+    color:   rgb(204, 204, 204);
+}
+a.nav-link{
+    color: black;
+    font-size: 20px;
+    
+}
+
+a.nav-link:hover{
+    color: rgb(19, 158, 19);
+    
+}
