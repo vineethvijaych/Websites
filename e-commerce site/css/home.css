@@ -14,12 +14,12 @@ a.nav-link{
 }
 
 a.nav-link:hover{
-    color: rgb(19, 158, 19);
+    color: rgb(0, 201, 27);
     
 }
 
 .hd1{
-    color: rgb(19, 158, 19);
+    color: rgb(0, 201, 27);
 }
 
 .nv1{
@@ -53,7 +53,7 @@ a.nav-link:hover{
     border-left: 0px;
     border-right: 0px;
 }
-p.txt:hover{
+p.txt1:hover{
     color:rgb(0, 201, 27);
 }
 .brdr1{
@@ -66,4 +66,28 @@ p.txt:hover{
 }
 .ftclr{
     background-color:rgb(13, 31, 43) ;
+}
+.footer-list a{
+    text-decoration: none;
+}
+.image{
+    max-width: 100%;
+    border-radius: 50%;
+}
+
+.c-img img{
+    width: 500px;
+}
+.ceroclr{
+    background-color: rgb(240, 240, 240);
+}
+.txt{
+    padding-top: 170px;
+}
+
+.featured{
+    background-color: rgba(218, 239, 250, 0.37);
+}
+.btn{
+    color: green;
 }
