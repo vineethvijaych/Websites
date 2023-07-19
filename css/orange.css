@@ -1,0 +1,21 @@
+.r1{
+    background-image: url(/images/image-header.jpg);
+    background-size: cover;
+    color: rgb(235, 219, 219);
+    height: 100vh;
+}
+.nav-link{
+    color:rgb(238, 230, 230)
+}
+.navbar-brand{
+    color: rgb(247, 243, 243);
+}
+img{
+    max-width: 100%;
+}
+.r2{
+    padding-top: 270px;
+}
+.brand{
+    padding-top: 250px;
+}
