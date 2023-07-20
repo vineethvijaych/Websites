@@ -1,21 +1,84 @@
 .r1{
     background-image: url(/images/image-header.jpg);
+   
     background-size: cover;
     color: rgb(235, 219, 219);
     height: 100vh;
+    width: 100%;
+   
 }
 .nav-link{
-    color:rgb(238, 230, 230)
+    color:rgb(238, 230, 230);
+    font-family: 'Angkor', cursive;
 }
 .navbar-brand{
     color: rgb(247, 243, 243);
+    font-family: 'Angkor', cursive;
+    
 }
-img{
-    max-width: 100%;
-}
+
 .r2{
-    padding-top: 270px;
+    padding-top: 200px;
 }
 .brand{
     padding-top: 250px;
+    
 }
+.btn{
+    border-bottom: 10px groove red;
+    border-radius: 10px;
+   
+}
+.design1{
+    background-image: url(/images/image-graphic-design.jpg);
+    background-size: cover;
+    padding-top:500px;
+    padding-bottom: 100px;
+}
+
+.design2{
+    background-image: url(/images/image-photography.jpg);
+    background-size: cover;
+    padding-top: 500px;
+    padding-bottom: 100px;
+}
+.image{
+    border-radius: 50%;
+    width: 75px;
+}
+.bgclr{
+    background-color: rgb(255, 255, 255);
+}
+.foot{
+    width: 100%;
+}
+.client{
+    font-family: 'Angkor', cursive;
+    font-size: 20px;
+    color: grey;
+}
+.font{
+    font-family: 'Angkor', cursive;
+    font-size: 15px;
+
+}
+.op{
+    opacity: .50;
+}
+.graphic{
+    font-family: 'Angkor', cursive;
+    color: rgb(66, 78, 78);
+
+}
+.create{
+    font-family: 'Angkor', cursive;
+    
+
+}
+.p1{
+    font-family: 'Pangolin', cursive;
+}
+
+/* 
+--------------------------------------------------------- */
+
