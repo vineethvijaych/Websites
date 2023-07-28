@@ -1,0 +1,111 @@
+.mainback{
+    
+   
+    overflow: hidden;
+    position: relative;
+    background: -webkit-linear-gradient(117deg, rgb(96, 87, 246), rgb(216, 71, 99));
+    background: linear-gradient(117deg, rgb(96, 87, 246), rgb(216, 71, 99));
+    background: -webkit-radial-gradient(rgb(194, 74, 126), rgb(105, 86, 235));
+    background: radial-gradient(rgb(194, 74, 126), rgb(105, 86, 235));
+}
+.image{
+    background-image: url("/images/strips.png");
+    max-width: 100%;
+    background-size: cover;
+}
+.dnld{
+    border-radius: 30px ;
+}
+
+.nitem{
+    color: white;
+    
+}
+.nitem:hover{
+    color: aqua;
+
+}
+.dbtn{
+    color: aqua;
+}
+
+.image2{
+    border-width: 20px;
+    border-style: solid;
+    border-radius: 30px;
+    border-color: white;
+    
+   
+    right: 100px;
+    z-index: 1;
+    
+   
+    transform: rotate(-6deg);
+    max-width: 100%;
+
+}
+.ipad {
+   
+    border-radius: 25px;
+    background: #fff;
+    box-shadow: inset 0 4px 7px 1px #fff, inset 0 -5px 20px rgba(173, 186, 204, .25), 0 0px 33px rgba(0, 21, 64, .14), 0 10px 20px rgba(0, 21, 64, .05);
+}
+
+.mouse:hover{
+    padding-top: 20px;
+}
+
+.sec2{
+    background-color: black;
+}
+
+.feature-icon{
+    background-color: white;
+    padding: 5%;
+    margin: 10%;
+    border-width: 20pX;
+    border-color: white;
+    border-style: solid;
+    border-radius: 50%;
+
+}
+.logos{
+    background-color: #fafafa;
+}
+
+.sec3{
+    background-color: #fafafa;
+}
+
+.wcard{
+    background-color: white;
+    border-radius: 7px;
+}
+
+.mid-plan {
+    text-align: center;
+    max-width: 390px;
+    margin: auto;
+    
+    padding: 36px 15px 45px;
+    position: relative;
+    box-shadow: 5px 8.7px 40px rgba(99, 117, 138, 0.3);
+    border-radius: 7px;
+}
+
+.sec5{
+    background-color:rgb(99, 224, 255);
+}
+
+.email-form-div {
+    max-width: inherit;
+    margin: auto;
+}
+
+.sec6{
+    background-color: rgb(37, 33, 33);
+}
+
+.asd{
+    width: 400px;
+}
